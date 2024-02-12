@@ -1,0 +1,21 @@
+.landing-page {
+    text-align: center;
+    padding: 20px;
+  }
+
+.landing-page h1 {
+font-size: 2em;
+margin-bottom: 20px;
+}
+
+.landing-page-link {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #3498db;
+  }
+  
+  .landing-page-link:hover {
+    color: #2980b9;
+  }

@@ -1,0 +1,61 @@
+.map-container {
+    text-align: center;
+    margin: auto;
+    max-width: 100px; 
+  }
+  
+  .location-info {
+    margin-top: 10px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+  }
+  
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input {
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+
+  
+  
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ecf0f1;
+}
+
+.blinking-marker {
+  animation: blink 1.3s infinite;
+  text-align: center;
+  color: navy;
+}
+
+.location-button {
+  margin: 30px;
+}
+
+.vehicles {
+  display: flex;
+  justify-content: flex-end;
+  height: 50vh
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+    font-size: 15px;
+  }
+  50% {
+    opacity: 0.5;
+    font-size: 12px;
+  }
+}
