@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Vehicle-Tracking/static/css/main.1828f36b.css",
+    "main.js": "/Vehicle-Tracking/static/js/main.44469d5d.js",
+    "static/js/592.e6c1104a.chunk.js": "/Vehicle-Tracking/static/js/592.e6c1104a.chunk.js",
+    "index.html": "/Vehicle-Tracking/index.html",
+    "main.1828f36b.css.map": "/Vehicle-Tracking/static/css/main.1828f36b.css.map",
+    "main.44469d5d.js.map": "/Vehicle-Tracking/static/js/main.44469d5d.js.map",
+    "592.e6c1104a.chunk.js.map": "/Vehicle-Tracking/static/js/592.e6c1104a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1828f36b.css",
+    "static/js/main.44469d5d.js"
+  ]
+}
